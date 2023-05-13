@@ -9,7 +9,9 @@ python数据分析-概率分布/总体和样本
 
 
 ### 第十章 不等式与极限定理
-1、单边切比雪夫不等式：https://zhuanlan.zhihu.com/p/111329527  
+1、单边切比雪夫不等式：  
+https://zhuanlan.zhihu.com/p/111329527  
+证明细节：https://blog.csdn.net/z_x_1996/article/details/73564926?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-73564926-blog-119864759.235%5Ev35%5Epc_relevant_increate_t0_download_v2_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-73564926-blog-119864759.235%5Ev35%5Epc_relevant_increate_t0_download_v2_base&utm_relevant_index=3  
 2、最大似然估计：
 1）指数分布的最大似然估计：https://blog.csdn.net/weixin_48524215/article/details/123186022  
 2）正态分布的最大似然估计：https://blog.csdn.net/linjing_zyq/article/details/120380707  
