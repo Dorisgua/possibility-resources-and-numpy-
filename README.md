@@ -6,3 +6,8 @@
 ## 一些参考网站
 1.https://zhuanlan.zhihu.com/p/430020520  
 python数据分析-概率分布/总体和样本
+
+
+### 第十章 不等式与极限定理
+1、单边切比雪夫不等式：https://zhuanlan.zhihu.com/p/111329527  
+2、最大似然估计：https://blog.csdn.net/linjing_zyq/article/details/120380707
